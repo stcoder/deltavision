@@ -1,0 +1,28 @@
+.btn-default,
+.btn-primary,
+.btn-success,
+.btn-info,
+.btn-warning,
+.btn-danger {
+    border-radius: 20px;
+}
+
+.btn-success {
+    background-image: -webkit-linear-gradient(top, #64bc46 0%, #55a13c 100%);
+    background-image:         linear-gradient(to bottom, #64bc46 0%, #55a13c 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff64bc46', endColorstr='#ff55a13c', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+    background-repeat: repeat-x;
+}
+.btn-success:hover,
+.btn-success:focus {
+    background-image: -webkit-linear-gradient(top, #55a13c 0%, #64bc46 100%);
+    background-image:         linear-gradient(to bottom, #55a13c 0%, #64bc46 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff55a13c', endColorstr='#ff64bc46', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+    background-repeat: repeat-x;
+}
+.btn-success:active,
+.btn-success.active {
+  background-color: #55a13c;
+}

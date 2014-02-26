@@ -1,0 +1,21 @@
+{
+  "name": "jquery.transition",
+  "dependencies": {
+    "jquery": ">= 1.5.2"
+  },
+  "homepage": "https://github.com/peteboere/jquery-transition",
+  "authors": [
+    "Pete Boere <pete@the-echoplex.net>"
+  ],
+  "license": "MIT",
+  "_release": "ee813b082c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ee813b082c7f64913244275f5e5928592db77092"
+  },
+  "_source": "git://github.com/peteboere/jquery-transition.git",
+  "_target": "*",
+  "_originalSource": "jquery-transition",
+  "_direct": true
+}

@@ -1,0 +1,55 @@
+.ni .smartslider-slider-create-image td{
+    padding-top: 60px;
+}
+
+.ni .smartslider-slider-create-heading td{
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #8997a6;
+    padding: 20px 20px 10px;
+}
+
+.ni .smartslider-slider-create-note td{
+    font-size: 13px;
+    padding: 0 40px 20px;
+}
+
+.ni .smartslider-slider-create-button td{
+    padding-bottom: 60px;
+}
+
+.ni .smartslider-dynamic-thumb,
+.ni .smartslider-import-thumb{
+    float:left;
+    margin: 30px 35px;
+    text-align: center;
+}
+
+.ni .smartslider-dynamic-thumb img,
+.ni .smartslider-import-thumb img{
+    margin-bottom: 8px;
+}
+
+.ni .smartslider-dynamic-thumb{
+    position: relative;
+}
+
+.ni .smartslider-dynamic-thumb div{
+    position: absolute;
+    top: 122px;
+    height: 30px;
+    width: 100%;
+    line-height: 30px;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 600;
+    background: #000;
+    background: RGBA(0,0,0,0.65);
+    -webkit-border-bottom-right-radius: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    -moz-border-radius-bottomright: 3px;
+    -moz-border-radius-bottomleft: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
